@@ -1,0 +1,5 @@
+opencv-python
+pandas
+audtorch
+plotly==5.18.0
+kaleido==0.1.0
